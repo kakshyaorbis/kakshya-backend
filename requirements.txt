@@ -1,0 +1,7 @@
+fastapi==0.140.13
+uvicorn==0.51.0
+httpx==0.28.1
+sqlalchemy==2.0.51
+psycopg2-binary==2.9.12
+bcrypt==5.0.0
+python-jose[cryptography]==3.5.0
